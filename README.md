@@ -21,7 +21,7 @@ All the models are trained in one single server with 8 GTX 1080 Ti GPUs.
 
 ## Get the Code
 ```Shell
-git clone --recursive https://github.com/BannyStone/Video_Classification_PyTorch.git
+git clone --recursive https://github.com/MaxandYuki/Video_Classification_PyTorch.git
 ```
 
 ## Preparing Dataset
